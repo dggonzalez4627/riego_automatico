@@ -1,0 +1,13 @@
+# Sensores del sistema
+
+## Sensor de humedad del suelo
+
+Permite medir la humedad presente en el suelo para determinar cuándo activar el sistema de riego.
+
+## Sensor de nivel de agua
+
+Permite verificar el nivel disponible de agua en el sistema.
+
+## Sensor de lluvia
+
+Permite detectar condiciones de lluvia para evitar activar innecesariamente el riego.
